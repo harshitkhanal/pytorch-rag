@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-genai
