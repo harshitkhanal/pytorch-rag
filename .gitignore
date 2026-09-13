@@ -1,0 +1,21 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+rag/
+
+# jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# os junk
+.DS_Store
+Thumbs.db
+
+# node (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
